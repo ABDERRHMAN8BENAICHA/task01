@@ -5,4 +5,4 @@ def test_note_student_sup_10_returns_unsuccessful():
     assert note_student(9) == "unsuccessful"
 
 def test_note_student_mide_10and_12_returns_better():
-    assert note_student(10) == "better"
+    assert note_student(11) == "better"

@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="175121ea-422e-4166-b5b7-e8fa56eba0dd" name="Changes" comment="passed test (GREEN)" />
+    <list default="true" id="175121ea-422e-4166-b5b7-e8fa56eba0dd" name="Changes" comment="passed test (GREEN)">
+      <change beforePath="$PROJECT_DIR$/src/not_student.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/not_student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_not_student.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_not_student.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +35,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests in test.py.executor": "Run",
-    "Python tests.Python tests in test_not_student.py.executor": "Run",
+    "Python tests.Python tests in test_not_student.py.executor": "Debug",
     "Python.not_student.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -79,10 +82,44 @@
       <option name="project" value="LOCAL" />
       <updated>1762333057204</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Refactoring (GREEN)">
+      <option name="closed" value="true" />
+      <created>1762333152423</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762333152423</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Refactoring (BLUE)">
+      <option name="closed" value="true" />
+      <created>1762333169959</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762333169959</updated>
+    </task>
+    <task id="LOCAL-00006" summary="failed test (RED)">
+      <option name="closed" value="true" />
+      <created>1762333299602</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1762333299602</updated>
+    </task>
+    <task id="LOCAL-00007" summary="passed test (GREEN)">
+      <option name="closed" value="true" />
+      <created>1762333364258</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762333364258</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refactoring (GREEN)" />
+    <MESSAGE value="Refactoring (BLUE)" />
     <MESSAGE value="failed test (RED)" />
     <MESSAGE value="passed test (GREEN)" />
     <option name="LAST_COMMIT_MESSAGE" value="passed test (GREEN)" />
