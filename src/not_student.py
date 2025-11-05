@@ -1,3 +1,3 @@
-def note_student(note):
-    if note == 9:
-        return "غير ناجح"
+def note_student(note:float)->str:
+    if note < 10:
+        return "unsuccessful"

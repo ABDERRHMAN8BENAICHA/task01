@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="175121ea-422e-4166-b5b7-e8fa56eba0dd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/task01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/task01.iml" afterDir="false" />
-    </list>
+    <list default="true" id="175121ea-422e-4166-b5b7-e8fa56eba0dd" name="Changes" comment="passed test (GREEN)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +31,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in test.py.executor": "Run",
+    "Python tests.Python tests in test_not_student.py.executor": "Run",
+    "Python.not_student.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -54,7 +55,37 @@
       <option name="presentableId" value="Default" />
       <updated>1762332012058</updated>
     </task>
+    <task id="LOCAL-00001" summary="failed test (RED)">
+      <option name="closed" value="true" />
+      <created>1762332758859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762332758859</updated>
+    </task>
+    <task id="LOCAL-00002" summary="passed test (GREEN)">
+      <option name="closed" value="true" />
+      <created>1762332929623</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762332929623</updated>
+    </task>
+    <task id="LOCAL-00003" summary="passed test (GREEN)">
+      <option name="closed" value="true" />
+      <created>1762333057204</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762333057204</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="failed test (RED)" />
+    <MESSAGE value="passed test (GREEN)" />
+    <option name="LAST_COMMIT_MESSAGE" value="passed test (GREEN)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
