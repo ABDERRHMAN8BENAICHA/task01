@@ -3,4 +3,5 @@ def note_student(note:float)->str:
         return "unsuccessful"
     if note >= 10 and note < 12 :
         return "better"
-    return "good"
+    if note >= 12 and note < 14 :
+        return "good"
