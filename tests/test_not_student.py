@@ -4,5 +4,8 @@ from src.not_student import note_student
 def test_note_student_sup_10_returns_unsuccessful():
     assert note_student(9) == "unsuccessful"
 
-def test_note_student_mide_10and_12_returns_better():
+def test_note_student_mide_10_and_12_returns_better():
     assert note_student(11) == "better"
+
+def test_note_studentmide_12_and_14_returns_good():
+    assert note_student(13) == "good"
